@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631642773215",
+    "firebase_url": "https://uptocasa-614dd.firebaseio.com",
+    "project_id": "uptocasa-614dd",
+    "storage_bucket": "uptocasa-614dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631642773215:android:a85c3780babb0e09367b6a",
+        "android_client_info": {
+          "package_name": "com.uptcasa.uptocasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631642773215-ltv0hdefdasvgis6k51lqgdb24oanu3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClliC1CMlyS9bv8YiNdGD9mG_PhQWYG3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631642773215-ltv0hdefdasvgis6k51lqgdb24oanu3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
