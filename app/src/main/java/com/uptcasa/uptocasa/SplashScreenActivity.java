@@ -97,7 +97,6 @@ public class SplashScreenActivity extends AppCompatActivity {
             {
                 Toast.makeText(this, "[ERROR]: "+response.getError().getMessage(), Toast.LENGTH_SHORT).show();
             }
-
         }
     }
 }
